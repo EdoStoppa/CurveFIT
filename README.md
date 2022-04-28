@@ -1,10 +1,10 @@
 # CurveFIT
 
-A simple curve project that wil fit the data using a Neural Network (with everything implemented from scratch)
+A simple Neural Network project that will fit the pseudo-random generated data using a Fully Connected Neural Network (with everything implemented from scratch)
 
 ## Description
 
-This simple project aims at creating a neural network that is able to create a curve fitting given any data in 2 dimensions. The Network, the learning algorithm (Gradient Descent with Backpropagation) and the loss function (MSE) are all implemented from scratch using only NumPy.
+This simple project aims at creating a neural network that is able to fit a curve on any data in 2 dimensions. The Network, the learning algorithm (Gradient Descent with Backpropagation) and the loss function (MSE) are all implemented from scratch using only NumPy.
 
 <p float="left">
   <img src="/imgs/fit0.png" width="400" />
